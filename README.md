@@ -19,15 +19,11 @@
 
   ## Installation
 
- All the user needs to do is to open the application via the heroku link 
+ All the user needs to do is to open the application via the heroku link.  If they would like to install the application, they only need to click the install button at the top left corner of the application.
 
   ## Contributors
   
   * Jake Mendez
-
-  ## Tests
-
-  * https://drive.google.com/file/d/1r1-Xo2LnEJTQMH1LJ2QHr1PbvC4RNmOw/view
 
   ## Questions
 
