@@ -7,7 +7,7 @@
 
   ## Live Application
 
-    [Heroku Application](https://serene-sea-18088.herokuapp.com/)
+* [Heroku Application](https://serene-sea-18088.herokuapp.com/)
 
   ## Table of Contents
 
